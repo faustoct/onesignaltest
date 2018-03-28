@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#echo "cleaning local folders"
+#rm -rf club-sencha/resources/sass/.sass-cache/ ; rm -rf club-sencha/phonegap/www/deltas/ ; rm -rf club-sencha/phonegap/www/archive/ ; rm -rf club-sencha/phonegap/platforms/ ; rm -rf club-sencha/build/ ; rm -rf club-sencha/phonegap/platforms/android/.gradle ; rm -rf club-sencha/phonegap/platforms/android/build ; rm -rf club-sencha/phonegap/platforms/android/CordovaLib/build ;
+
+echo "pushing to repository"
+git checkout dev ; git add . ; git commit -m '.' ; git push origin dev; git checkout master; git merge dev ; git push origin master ; git checkout dev;
+
+echo "running git gc"
+git gc ;

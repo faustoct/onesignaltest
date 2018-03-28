@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/20977006bc6a5d974a7de41066a6d0c1133c07f0/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_search_url_text.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/fausto/.android/build-cache/9a19836fe4ae40647f296b152e848988dbb16539/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/fausto/.android/build-cache/120a3b5099c0b8f78d84070563d12309d9e95339/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_default.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/9a19836fe4ae40647f296b152e848988dbb16539/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/fausto/.android/build-cache/20977006bc6a5d974a7de41066a6d0c1133c07f0/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/fausto/.android/build-cache/1ff779a515258cecbc653106424c910e6e09a5ca/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/fausto/.android/build-cache/cb1f2b9e5b1c2b04fb87e1cc7468a5cbd373fce2/output/res/color/com_facebook_send_button_text_color.xml"
+    }
+]

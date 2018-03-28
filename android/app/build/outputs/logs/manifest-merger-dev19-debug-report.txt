@@ -1,0 +1,818 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:2:1-262:12
+	package
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:3:3-30
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:5:3-49
+	xmlns:android
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:4:3-61
+	android:versionCode
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+permission#com.linked4.app.social.permission.C2D_MESSAGE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:7:3-9:42
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:9:5-40
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:8:5-65
+uses-permission#com.linked4.app.social.permission.C2D_MESSAGE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:12:3-83
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:12:20-80
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:13:3-80
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:18:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/fausto/.android/build-cache/fbed07b787ab381be1387da69cedb012e4119861/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/fausto/.android/build-cache/c03a65076215630ac7c02a2f5742f35e9763d4f2/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:13:20-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:14:3-77
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:25:5-79
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:25:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/fausto/.android/build-cache/f9821d04a54b6f464f7cc1eb3e9981c51cd2737f/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/fausto/.android/build-cache/2d7ec1ac80160308babd18cc5a3dfc9e54aee4c1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/9ef771f00549e9193d69c3c9f22af8e2bc42d533/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/fausto/.android/build-cache/625694cdcfbf778413098761068cb4d7412455bc/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/fausto/.android/build-cache/4d8a964e0074be349cb5885b1e9528ae6e75fc56/output/AndroidManifest.xml:19:5-78
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/fausto/.android/build-cache/a18ca08f8eb20524764b6a9eb0de1e3fbd72958a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/d4624c9e0bf772f021a7ee7174baa7168a292b08/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:14:20-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:15:3-65
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:17:5-67
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:19:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/fausto/.android/build-cache/72ef12bfbcaaaed6f1105ee69c67e82f9da895e7/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/fausto/.android/build-cache/e088da06a710bcd71577898474cb89d06a464c41/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/fausto/.android/build-cache/8eb5024242d6e5423635c1feb705d457cc240c72/output/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/fausto/.android/build-cache/bcd9d650aa6137d18b5320e69bcba1e56f7958cf/output/AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/fausto/.android/build-cache/c4119b78e449bd533fa14382f0111e260ca139c2/output/AndroidManifest.xml:9:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/fausto/.android/build-cache/f9821d04a54b6f464f7cc1eb3e9981c51cd2737f/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/fausto/.android/build-cache/fbed07b787ab381be1387da69cedb012e4119861/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/fausto/.android/build-cache/c03a65076215630ac7c02a2f5742f35e9763d4f2/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/fausto/.android/build-cache/2d7ec1ac80160308babd18cc5a3dfc9e54aee4c1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/9ef771f00549e9193d69c3c9f22af8e2bc42d533/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/fausto/.android/build-cache/625694cdcfbf778413098761068cb4d7412455bc/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/fausto/.android/build-cache/4d8a964e0074be349cb5885b1e9528ae6e75fc56/output/AndroidManifest.xml:20:5-66
+MERGED from [net.openid:appauth:0.4.1] /Users/fausto/.android/build-cache/9fc575db6e8ee537a0b24f1711c7c45b816b1a81/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/fausto/.android/build-cache/a18ca08f8eb20524764b6a9eb0de1e3fbd72958a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/d4624c9e0bf772f021a7ee7174baa7168a292b08/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:15:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:16:3-76
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:21:5-78
+MERGED from [com.facebook.react:react-native:25.0.0] /Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/fausto/.android/build-cache/b96c20fdbcedb8061a0c3263eee9d00e9e40e736/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/fausto/.android/build-cache/97ef12e2b4fbe9ba2433bc2b02012559d82cbbca/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/fausto/.android/build-cache/266fd5342acb4c3d1663f0f3121bb723d70c13e4/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi22:1.0.0] /Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi21:1.0.0] /Users/fausto/.android/build-cache/47c34993876458cb8630526a45f83bcd3f31fe9d/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi20:1.0.0] /Users/fausto/.android/build-cache/3e8b8cd70b6172815f5f0a192e10469770f882f5/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi19:1.0.0] /Users/fausto/.android/build-cache/1bb308b042cc05109992646bc1b2de3a4443cf58/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:16:20-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:17:3-66
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:19:5-68
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:22:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/fausto/.android/build-cache/2d7ec1ac80160308babd18cc5a3dfc9e54aee4c1/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/9ef771f00549e9193d69c3c9f22af8e2bc42d533/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/fausto/.android/build-cache/a18ca08f8eb20524764b6a9eb0de1e3fbd72958a/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/d4624c9e0bf772f021a7ee7174baa7168a292b08/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:17:20-63
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:21:3-73
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:21:20-70
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:22:3-78
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:22:20-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:23:3-73
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:23:20-70
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:24:3-72
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:24:20-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:25:3-64
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:25:20-61
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:26:3-86
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:20:5-88
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:26:20-83
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:29:3-79
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:36:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:29:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:30:3-77
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:37:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:30:20-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:31:3-63
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:35:5-65
+MERGED from [com.google.android:cameraview:1.0.0] /Users/fausto/.android/build-cache/61b7c2d4ea5143121db4b1a450f120ba6843cec8/output/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:31:20-60
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:32:3-70
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:32:20-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:33:3-78
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:33:20-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:34:3-69
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:34:20-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:35:3-79
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:35:20-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:36:3-71
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:36:20-68
+uses-feature#0x00020000
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:41:3-77
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/fausto/.android/build-cache/4d8a964e0074be349cb5885b1e9528ae6e75fc56/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:41:17-49
+	android:required
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:41:50-74
+application
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:43:3-260:17
+REJECTED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:49:5-106:19
+REJECTED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:67:5-83:19
+REJECTED from [com.facebook.react:react-native:25.0.0] /Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/fausto/.android/build-cache/b96c20fdbcedb8061a0c3263eee9d00e9e40e736/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/fausto/.android/build-cache/97ef12e2b4fbe9ba2433bc2b02012559d82cbbca/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi23:1.0.0] /Users/fausto/.android/build-cache/266fd5342acb4c3d1663f0f3121bb723d70c13e4/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi22:1.0.0] /Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi21:1.0.0] /Users/fausto/.android/build-cache/47c34993876458cb8630526a45f83bcd3f31fe9d/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi20:1.0.0] /Users/fausto/.android/build-cache/3e8b8cd70b6172815f5f0a192e10469770f882f5/output/AndroidManifest.xml:13:5-20
+REJECTED from [host.exp:reactandroid-abi19:1.0.0] /Users/fausto/.android/build-cache/1bb308b042cc05109992646bc1b2de3a4443cf58/output/AndroidManifest.xml:13:5-20
+REJECTED from [com.facebook.soloader:soloader:0.1.0] /Users/fausto/.android/build-cache/b8f0c8671b09ac9d1d0e57820749da2f39582907/output/AndroidManifest.xml:3:3-17
+REJECTED from [org.webkit:android-jsc:r174650] /Users/fausto/.android/build-cache/9ee1415a19b9f5526154152c65e869c59afdd018/output/AndroidManifest.xml:2:3-17
+REJECTED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/fausto/.android/build-cache/72ef12bfbcaaaed6f1105ee69c67e82f9da895e7/output/AndroidManifest.xml:11:5-20
+REJECTED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/fausto/.android/build-cache/e088da06a710bcd71577898474cb89d06a464c41/output/AndroidManifest.xml:11:5-20
+REJECTED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/fausto/.android/build-cache/8eb5024242d6e5423635c1feb705d457cc240c72/output/AndroidManifest.xml:11:5-20
+REJECTED from [io.fabric.sdk.android:fabric:1.3.10] /Users/fausto/.android/build-cache/bcd9d650aa6137d18b5320e69bcba1e56f7958cf/output/AndroidManifest.xml:27:5-20
+REJECTED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/fausto/.android/build-cache/c4119b78e449bd533fa14382f0111e260ca139c2/output/AndroidManifest.xml:11:5-20
+REJECTED from [com.facebook.android:facebook-android-sdk:4.28.0] /Users/fausto/.android/build-cache/1353b238188acd2eb01e6dcb9d31c85a3cc83679/output/AndroidManifest.xml:28:5-29:19
+REJECTED from [com.facebook.android:facebook-login:4.28.0] /Users/fausto/.android/build-cache/a2e46638873e8e4a90eac476232fcaf7ff2e0de5/output/AndroidManifest.xml:28:5-29:19
+REJECTED from [com.facebook.android:facebook-share:4.28.0] /Users/fausto/.android/build-cache/cb1f2b9e5b1c2b04fb87e1cc7468a5cbd373fce2/output/AndroidManifest.xml:28:5-29:19
+REJECTED from [com.facebook.android:facebook-common:4.28.0] /Users/fausto/.android/build-cache/1ff779a515258cecbc653106424c910e6e09a5ca/output/AndroidManifest.xml:28:5-34:19
+REJECTED from [com.android.support:cardview-v7:26.0.1] /Users/fausto/.android/build-cache/2f716e2d2ee39739159a79ffdfc6420945e05ba2/output/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.facebook.android:facebook-places:4.28.0] /Users/fausto/.android/build-cache/5a1e0e04ebb36ac47c26b5703469d8019d23cf5c/output/AndroidManifest.xml:28:5-29:19
+REJECTED from [com.facebook.android:facebook-applinks:4.28.0] /Users/fausto/.android/build-cache/8bdc7e1ee332ac64de6478467727cc65e4de0fd4/output/AndroidManifest.xml:28:5-29:19
+REJECTED from [com.facebook.android:facebook-messenger:4.28.0] /Users/fausto/.android/build-cache/f95d20bcb6612e1a0340d65d8a56e8e19387e347/output/AndroidManifest.xml:28:5-29:19
+REJECTED from [com.facebook.android:facebook-core:4.28.0] /Users/fausto/.android/build-cache/32ab8f1c15c8457d65e15e15780542aa893b579b/output/AndroidManifest.xml:28:5-43:19
+REJECTED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/fausto/.android/build-cache/f9821d04a54b6f464f7cc1eb3e9981c51cd2737f/output/AndroidManifest.xml:14:5-18:19
+REJECTED from [com.android.support:recyclerview-v7:26.0.1] /Users/fausto/.android/build-cache/32b0125b8af91936948419c4efd0373d87b8977a/output/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/fausto/.android/build-cache/fbed07b787ab381be1387da69cedb012e4119861/output/AndroidManifest.xml:23:5-19
+REJECTED from [com.google.android.gms:play-services-iid:9.8.0] /Users/fausto/.android/build-cache/c03a65076215630ac7c02a2f5742f35e9763d4f2/output/AndroidManifest.xml:23:5-19
+REJECTED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/fausto/.android/build-cache/2d7ec1ac80160308babd18cc5a3dfc9e54aee4c1/output/AndroidManifest.xml:26:5-19
+REJECTED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/9ef771f00549e9193d69c3c9f22af8e2bc42d533/output/AndroidManifest.xml:26:5-19
+REJECTED from [com.google.android.gms:play-services-auth:9.8.0] /Users/fausto/.android/build-cache/3388a516acccdb9511e0669951903e87b0565c63/output/AndroidManifest.xml:19:5-25:19
+REJECTED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/fausto/.android/build-cache/625694cdcfbf778413098761068cb4d7412455bc/output/AndroidManifest.xml:23:5-27:19
+REJECTED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/fausto/.android/build-cache/2878a0730313ab74fa059b588c9f1bc1d175cc85/output/AndroidManifest.xml:18:5-19
+REJECTED from [com.google.android.gms:play-services-gass:9.8.0] /Users/fausto/.android/build-cache/4f6b8603daffa22b397328a0c409249e47c63acc/output/AndroidManifest.xml:4:5-19
+REJECTED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/fausto/.android/build-cache/af52163c7f24d7b202b473ce1ef23dd2c7ad28a3/output/AndroidManifest.xml:18:5-19
+REJECTED from [com.google.android.gms:play-services-location:9.8.0] /Users/fausto/.android/build-cache/e47e73d4af2dc144dce36166de3c6018be692e8e/output/AndroidManifest.xml:4:5-19
+REJECTED from [com.google.android.gms:play-services-vision:9.8.0] /Users/fausto/.android/build-cache/f37964c889400cc787fb507ebb177082e2dd4c0b/output/AndroidManifest.xml:4:5-19
+REJECTED from [com.google.android.gms:play-services-identity:9.8.0] /Users/fausto/.android/build-cache/15333f035113e5eb7a2818fdb7f30753e2411fe9/output/AndroidManifest.xml:18:5-19
+REJECTED from [com.google.android.gms:play-services-maps:9.8.0] /Users/fausto/.android/build-cache/4d8a964e0074be349cb5885b1e9528ae6e75fc56/output/AndroidManifest.xml:24:5-19
+REJECTED from [com.google.android.gms:play-services-base:9.8.0] /Users/fausto/.android/build-cache/20977006bc6a5d974a7de41066a6d0c1133c07f0/output/AndroidManifest.xml:18:5-20:19
+REJECTED from [com.raizlabs.android:DBFlow:2.2.1] /Users/fausto/.android/build-cache/6c877de7420dd35fc2cbc0f39f537946c3536395/output/AndroidManifest.xml:11:5-20
+REJECTED from [net.openid:appauth:0.4.1] /Users/fausto/.android/build-cache/9fc575db6e8ee537a0b24f1711c7c45b816b1a81/output/AndroidManifest.xml:26:5-44:19
+REJECTED from [com.android.support:customtabs:26.0.1] /Users/fausto/.android/build-cache/ef064096db007c18a3fd7cf1dfdf0cc29da52c7f/output/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.airbnb.android:lottie:2.2.0] /Users/fausto/.android/build-cache/10d3081fc2bb6f0cb3ffd11337d91a164324c6f6/output/AndroidManifest.xml:10:5-20
+REJECTED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/fausto/.android/build-cache/6d9bf60d9f5aaa1faf89a4502c851f258b8b1d6a/output/AndroidManifest.xml:11:5-20
+REJECTED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:18:5-28:19
+REJECTED from [com.android.support:exifinterface:26.0.1] /Users/fausto/.android/build-cache/cab0a89400af619ec7c64e544e51ca29d4e3a0b1/output/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.google.android:cameraview:1.0.0] /Users/fausto/.android/build-cache/61b7c2d4ea5143121db4b1a450f120ba6843cec8/output/AndroidManifest.xml:32:5-20
+REJECTED from [com.android.support:appcompat-v7:26.0.1] /Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:animated-vector-drawable:26.0.1] /Users/fausto/.android/build-cache/5c91907e5577a3b3a38c79f29f276d624554a5e3/output/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.android.support:support-vector-drawable:26.0.1] /Users/fausto/.android/build-cache/b6aa0cbdd5fcafed516ba9da8efe28b513bf85d2/output/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.google.firebase:firebase-core:9.8.0] /Users/fausto/.android/build-cache/32e7f98898ddeb888f9d6798c76e4873e2284af1/output/AndroidManifest.xml:5:5-20
+REJECTED from [com.google.firebase:firebase-analytics:9.8.0] /Users/fausto/.android/build-cache/a18ca08f8eb20524764b6a9eb0de1e3fbd72958a/output/AndroidManifest.xml:24:5-33:19
+REJECTED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/d4624c9e0bf772f021a7ee7174baa7168a292b08/output/AndroidManifest.xml:24:5-28:19
+REJECTED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:28:5-50:19
+REJECTED from [com.google.firebase:firebase-common:9.8.0] /Users/fausto/.android/build-cache/209b13c9c591df0fe3e34e921e60467059392f59/output/AndroidManifest.xml:4:5-7:19
+REJECTED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/fausto/.android/build-cache/91df48e7561e5a0bb048e70965d9eae0c1dadd41/output/AndroidManifest.xml:4:5-19
+REJECTED from [com.google.android.gms:play-services-basement:9.8.0] /Users/fausto/.android/build-cache/dcf21b38b7a55a742279705b50142eb470d891fa/output/AndroidManifest.xml:19:5-21:19
+REJECTED from [com.android.support:support-v4:26.0.1] /Users/fausto/.android/build-cache/7b2e0a68b039f2eef648e9d7708db54553b25700/output/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-media-compat:26.0.1] /Users/fausto/.android/build-cache/39ae2e67deb7830c69e713462b4ace23cf54139c/output/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-fragment:26.0.1] /Users/fausto/.android/build-cache/dfd6892e65732b070012cec8be6d45eb4ac6027d/output/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-core-ui:26.0.1] /Users/fausto/.android/build-cache/5140a3df6f2bc607496c562698e43efbbd3f9246/output/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-core-utils:26.0.1] /Users/fausto/.android/build-cache/9db64139149992108888f8a8976672b23ecfbeae/output/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-compat:26.0.1] /Users/fausto/.android/build-cache/ed8e2baea272ffb3f817cba6414724556a2f41b0/output/AndroidManifest.xml:25:5-29:19
+	tools:node
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:44:7-27
+	android:label
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:48:5-37
+	android:allowBackup
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:46:5-31
+	android:icon
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:47:5-39
+	android:largeHeap
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:49:5-29
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:45:5-36
+activity#host.exp.exponent.LauncherActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:51:5-65:16
+	android:screenOrientation
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:55:7-43
+	android:launchMode
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:54:7-38
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:53:7-30
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:56:7-66
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:52:7-39
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:57:7-64:23
+data
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:58:9-69
+	android:scheme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:58:15-67
+action#android.intent.action.VIEW
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:60:9-60
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:60:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:62:9-67
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:62:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:63:9-69
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:63:19-67
+activity#host.exp.exponent.experience.ExperienceActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:67:5-72:16
+	android:windowSoftInputMode
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:71:7-49
+	android:configChanges
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:69:7-77
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:70:7-50
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:68:7-52
+activity#host.exp.exponent.MainActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:74:5-84:16
+	android:windowSoftInputMode
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:78:7-49
+	android:configChanges
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:76:7-77
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:77:7-51
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:75:7-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:79:7-83:23
+action#android.intent.action.MAIN
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:80:9-60
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:80:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:82:9-68
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:82:19-66
+activity#host.exp.exponent.experience.ShellAppActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:86:5-92:16
+	android:windowSoftInputMode
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:90:7-49
+	android:configChanges
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:88:7-77
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:89:7-51
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:87:7-50
+activity#host.exp.exponent.experience.HomeActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:94:5-100:16
+	android:screenOrientation
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:98:7-43
+	android:label
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:96:7-39
+	android:launchMode
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:97:7-38
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:99:7-50
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:95:7-46
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:102:5-81
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:102:15-79
+activity#abi25_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:104:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:104:15-89
+activity#abi24_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:105:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:105:15-89
+activity#abi23_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:106:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:106:15-89
+activity#abi22_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:107:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:107:15-89
+activity#abi21_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:108:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:108:15-89
+activity#abi20_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:109:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:109:15-89
+activity#abi19_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:110:5-91
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:110:15-89
+activity#host.exp.exponent.ExponentDevActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:112:5-119:16
+	android:screenOrientation
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:116:7-43
+	android:label
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:115:7-48
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:114:7-30
+	android:windowSoftInputMode
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:118:7-46
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:117:7-49
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:113:7-42
+activity#host.exp.exponent.oauth.OAuthWebViewActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:121:5-125:16
+	android:screenOrientation
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:123:7-43
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:124:7-50
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:122:7-49
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:127:5-136:16
+	tools:node
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:129:9-29
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:128:9-70
+activity#host.exp.exponent.oauth.OAuthResultActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:138:5-140:16
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:139:7-48
+activity#host.exp.exponent.chrometabs.ChromeTabsManagerActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:142:5-144:16
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:143:7-59
+activity#host.exp.exponent.experience.ErrorActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:146:5-150:16
+	android:screenOrientation
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:149:7-43
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:148:7-49
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:147:7-47
+activity#host.exp.exponent.experience.InfoActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:152:5-156:16
+	android:screenOrientation
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:154:7-43
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:155:7-50
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:153:7-46
+activity#com.facebook.FacebookActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:158:5-163:39
+	android:label
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:161:7-39
+	android:configChanges
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:160:7-90
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:162:7-66
+	tools:replace
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:163:7-36
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:159:7-51
+activity#com.facebook.ads.InterstitialAdActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:165:5-169:69
+	android:label
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:168:7-39
+	android:configChanges
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:167:7-90
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:169:7-66
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:166:7-61
+service#host.exp.exponent.ExponentIntentService
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:171:5-173:34
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:173:7-31
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:172:7-44
+receiver#host.exp.exponent.referrer.InstallReferrerReceiver
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:176:5-182:16
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:178:7-30
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:177:7-72
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:179:7-181:23
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:180:9-71
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:180:17-68
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:192:5-197:16
+	android:enabled
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:193:15-37
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:192:15-80
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:194:7-196:23
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:195:9-86
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:195:17-83
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:199:5-201:40
+	android:enabled
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:200:14-36
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:201:14-38
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:199:14-78
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:204:5-214:16
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:206:7-30
+	android:permission
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:207:7-67
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:205:7-60
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.linked4.app.social
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:208:7-213:23
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:209:9-72
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:209:17-70
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:210:9-77
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:210:17-75
+category#com.linked4.app.social
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:212:9-58
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:212:19-56
+service#host.exp.exponent.gcm.ExponentGcmListenerService
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:216:5-222:15
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:218:7-31
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:217:7-53
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:219:7-221:23
+service#host.exp.exponent.gcm.ExponentInstanceIDListenerService
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:223:5-229:15
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:225:7-31
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:224:7-60
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:226:7-228:23
+action#com.google.android.gms.iid.InstanceID
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:227:9-71
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:227:17-69
+service#host.exp.exponent.gcm.RegistrationIntentService
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:230:5-233:15
+	android:exported
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:232:7-31
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:231:7-52
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:236:5-239:16
+	android:theme
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:238:7-50
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:237:7-70
+meta-data#io.fabric.ApiKey
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:244:5-246:65
+	android:value
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:246:7-63
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:245:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:251:5-253:64
+	android:value
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:253:7-62
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:252:7-52
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:259:5-83
+	android:value
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:259:62-81
+	android:name
+		ADDED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml:259:16-61
+uses-sdk
+INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [android:react-native-onesignal:unspecified] /Users/fausto/Projects/coding/vibytest/node_modules/react-native-onesignal/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:5:5-44
+MERGED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/fausto/.android/build-cache/6f8a382f5fc1efaf97ed5b7cf69d5fcdb667c875/output/AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.react:react-native:25.0.0] /Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/fausto/.android/build-cache/8d6ef7626409f4a076a811d422b218b696a095d0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/fausto/.android/build-cache/b96c20fdbcedb8061a0c3263eee9d00e9e40e736/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/fausto/.android/build-cache/97ef12e2b4fbe9ba2433bc2b02012559d82cbbca/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/fausto/.android/build-cache/266fd5342acb4c3d1663f0f3121bb723d70c13e4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi22:1.0.0] /Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi21:1.0.0] /Users/fausto/.android/build-cache/47c34993876458cb8630526a45f83bcd3f31fe9d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi20:1.0.0] /Users/fausto/.android/build-cache/3e8b8cd70b6172815f5f0a192e10469770f882f5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi19:1.0.0] /Users/fausto/.android/build-cache/1bb308b042cc05109992646bc1b2de3a4443cf58/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/fausto/.android/build-cache/05f6d789dcca864333f21fb63bfc82a5f663b987/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/fausto/.android/build-cache/5d6a1b22fb0d40d4db16707f02c6d4441e22c9c3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/fausto/.android/build-cache/f751908a8cbb6b1a3a1f45ccaff6bb87282baa9c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.0.1] /Users/fausto/.android/build-cache/936d16d5785c73a4e90e676d8e9a2fad52a552f3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.0.1] /Users/fausto/.android/build-cache/b75055c0ce7f0991706b73b458682f290de0fe2a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.0.1] /Users/fausto/.android/build-cache/07da07f4ad1486a3e905b55ab35f9ecb003251bb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/fausto/.android/build-cache/314820a08d976c1333afcef08353132c63b96c50/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.0.1] /Users/fausto/.android/build-cache/7b70cc176160d7a2747c2bda6cb51878323245f2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/fausto/.android/build-cache/0223c70fd0052faee6794e7a81e0275c3c323651/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/fausto/.android/build-cache/8dc2b35359201827dc0c45c0be8ac952702b1127/output/AndroidManifest.xml:5:5-7:41
+MERGED from [expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3:1.0.1] /Users/fausto/.android/build-cache/83cbd656b207294fd219d1d0afc28c734246dbcd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/fausto/.android/build-cache/b8f0c8671b09ac9d1d0e57820749da2f39582907/output/AndroidManifest.xml:2:3-70
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/fausto/.android/build-cache/72ef12bfbcaaaed6f1105ee69c67e82f9da895e7/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/fausto/.android/build-cache/e088da06a710bcd71577898474cb89d06a464c41/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/fausto/.android/build-cache/8eb5024242d6e5423635c1feb705d457cc240c72/output/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/fausto/.android/build-cache/bcd9d650aa6137d18b5320e69bcba1e56f7958cf/output/AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/fausto/.android/build-cache/c4119b78e449bd533fa14382f0111e260ca139c2/output/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /Users/fausto/.android/build-cache/1353b238188acd2eb01e6dcb9d31c85a3cc83679/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /Users/fausto/.android/build-cache/a2e46638873e8e4a90eac476232fcaf7ff2e0de5/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /Users/fausto/.android/build-cache/cb1f2b9e5b1c2b04fb87e1cc7468a5cbd373fce2/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /Users/fausto/.android/build-cache/1ff779a515258cecbc653106424c910e6e09a5ca/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:26.0.1] /Users/fausto/.android/build-cache/2f716e2d2ee39739159a79ffdfc6420945e05ba2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.28.0] /Users/fausto/.android/build-cache/5a1e0e04ebb36ac47c26b5703469d8019d23cf5c/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /Users/fausto/.android/build-cache/8bdc7e1ee332ac64de6478467727cc65e4de0fd4/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /Users/fausto/.android/build-cache/f95d20bcb6612e1a0340d65d8a56e8e19387e347/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /Users/fausto/.android/build-cache/32ab8f1c15c8457d65e15e15780542aa893b579b/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/fausto/.android/build-cache/f9821d04a54b6f464f7cc1eb3e9981c51cd2737f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/fausto/.android/build-cache/32b0125b8af91936948419c4efd0373d87b8977a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r2.0.3] /Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/fausto/.android/build-cache/fbed07b787ab381be1387da69cedb012e4119861/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/fausto/.android/build-cache/c03a65076215630ac7c02a2f5742f35e9763d4f2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/fausto/.android/build-cache/2d7ec1ac80160308babd18cc5a3dfc9e54aee4c1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/9ef771f00549e9193d69c3c9f22af8e2bc42d533/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/fausto/.android/build-cache/3388a516acccdb9511e0669951903e87b0565c63/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/fausto/.android/build-cache/9319029cefca865fd3d8a1ec719b5cdb144038c7/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/fausto/.android/build-cache/b6d80d4c122380b7d339db66a9141d142469e902/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/fausto/.android/build-cache/625694cdcfbf778413098761068cb4d7412455bc/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/fausto/.android/build-cache/2878a0730313ab74fa059b588c9f1bc1d175cc85/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/fausto/.android/build-cache/4f6b8603daffa22b397328a0c409249e47c63acc/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/fausto/.android/build-cache/af52163c7f24d7b202b473ce1ef23dd2c7ad28a3/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/fausto/.android/build-cache/e47e73d4af2dc144dce36166de3c6018be692e8e/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/fausto/.android/build-cache/f37964c889400cc787fb507ebb177082e2dd4c0b/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /Users/fausto/.android/build-cache/9a19836fe4ae40647f296b152e848988dbb16539/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/fausto/.android/build-cache/15333f035113e5eb7a2818fdb7f30753e2411fe9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/fausto/.android/build-cache/4d8a964e0074be349cb5885b1e9528ae6e75fc56/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/fausto/.android/build-cache/20977006bc6a5d974a7de41066a6d0c1133c07f0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.stripe:stripe-android:2.1.0] /Users/fausto/.android/build-cache/3a0d40710c1bfb6b2d8f812da560365fc9a3b587/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] /Users/fausto/.android/build-cache/520ead74672d4a35bbe917dd411d79887d571040/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] /Users/fausto/.android/build-cache/6c877de7420dd35fc2cbc0f39f537946c3536395/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/fausto/.android/build-cache/f7f87ba104ed7333e4c6de594a11844b537ecdb7/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /Users/fausto/.android/build-cache/8e710fd989fa50a9eecaee15b5055fbbbff3867e/output/AndroidManifest.xml:8:5-10:41
+MERGED from [net.openid:appauth:0.4.1] /Users/fausto/.android/build-cache/9fc575db6e8ee537a0b24f1711c7c45b816b1a81/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:customtabs:26.0.1] /Users/fausto/.android/build-cache/ef064096db007c18a3fd7cf1dfdf0cc29da52c7f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.2.0] /Users/fausto/.android/build-cache/10d3081fc2bb6f0cb3ffd11337d91a164324c6f6/output/AndroidManifest.xml:6:5-8:41
+MERGED from [io.branch.sdk.android:library:2.6.1] /Users/fausto/.android/build-cache/123e801d84f3afc5b7f415b33302ef092507d356/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/fausto/.android/build-cache/6d9bf60d9f5aaa1faf89a4502c851f258b8b1d6a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:26.0.1] /Users/fausto/.android/build-cache/cab0a89400af619ec7c64e544e51ca29d4e3a0b1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android:cameraview:1.0.0] /Users/fausto/.android/build-cache/61b7c2d4ea5143121db4b1a450f120ba6843cec8/output/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/fausto/.android/build-cache/5c91907e5577a3b3a38c79f29f276d624554a5e3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/fausto/.android/build-cache/b6aa0cbdd5fcafed516ba9da8efe28b513bf85d2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/fausto/.android/build-cache/32e7f98898ddeb888f9d6798c76e4873e2284af1/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/fausto/.android/build-cache/a18ca08f8eb20524764b6a9eb0de1e3fbd72958a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/fausto/.android/build-cache/d4624c9e0bf772f021a7ee7174baa7168a292b08/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/fausto/.android/build-cache/d530c3f4c1aeae952a84ede655e5e480b8eba695/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/fausto/.android/build-cache/209b13c9c591df0fe3e34e921e60467059392f59/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/fausto/.android/build-cache/91df48e7561e5a0bb048e70965d9eae0c1dadd41/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/fausto/.android/build-cache/dcf21b38b7a55a742279705b50142eb470d891fa/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.1] /Users/fausto/.android/build-cache/7b2e0a68b039f2eef648e9d7708db54553b25700/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/fausto/.android/build-cache/39ae2e67deb7830c69e713462b4ace23cf54139c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/fausto/.android/build-cache/dfd6892e65732b070012cec8be6d45eb4ac6027d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/fausto/.android/build-cache/5140a3df6f2bc607496c562698e43efbbd3f9246/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/fausto/.android/build-cache/9db64139149992108888f8a8976672b23ecfbeae/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /Users/fausto/.android/build-cache/ed8e2baea272ffb3f817cba6414724556a2f41b0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/fausto/.android/build-cache/2308e3c5351a978818c69938090e7ba69ebe4b64/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fausto/Projects/coding/vibytest/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:32:5-86
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:33:5-87
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:34:5-81
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:35:5-83
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:36:5-88
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:38:5-84
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:39:5-83
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/fausto/.android/build-cache/e0f3d06e33036d09139b6fce219c31db5eaf96ff/output/AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/fausto/.android/build-cache/44cc100f2988f01e788e13ee7fccd4012c291316/output/AndroidManifest.xml:47:22-86
+supports-screens
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:11:5-17:24
+	android:largeScreens
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:12:9-34
+uses-permission#host.exp.exponent.permission.C2D_MESSAGE
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:31:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:32:5-73
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:32:22-70
+uses-feature#android.hardware.camera
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:39:5-41:36
+MERGED from [com.google.android:cameraview:1.0.0] /Users/fausto/.android/build-cache/61b7c2d4ea5143121db4b1a450f120ba6843cec8/output/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:40:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:42:5-44:36
+MERGED from [com.google.android:cameraview:1.0.0] /Users/fausto/.android/build-cache/61b7c2d4ea5143121db4b1a450f120ba6843cec8/output/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:43:9-57
+uses-feature#android.hardware.location
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:45:5-47:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:46:9-49
+uses-feature#android.hardware.location.gps
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:48:5-50:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:50:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:49:9-53
+uses-feature#android.hardware.location.network
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:51:5-53:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:53:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:52:9-57
+uses-feature#android.hardware.wifi
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:54:5-56:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:56:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:55:9-45
+uses-feature#android.hardware.microphone
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:57:5-59:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:59:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:58:9-51
+uses-feature#android.hardware.telephony
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:60:5-62:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:62:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:61:9-50
+uses-feature#android.hardware.bluetooth
+ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:63:5-65:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:65:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:25.0.0] /Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/AndroidManifest.xml:64:9-50
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/fausto/.android/build-cache/d7ab8446c5613489cbfd661eefe59c5144f57f55/output/AndroidManifest.xml:16:22-91

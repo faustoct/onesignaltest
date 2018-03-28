@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/fausto/.android/build-cache/0d2a4224f566751d371c00c3910de2a4dbdb62e2/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    }
+]

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/266fd5342acb4c3d1663f0f3121bb723d70c13e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_fd8f9d2c5d925479e27334c42cc0a70ffffd5768/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/c3c69d80e1d6e11a101509fb9de9c33b02ae3160/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="765f07d2233e2e7f1f77fbae57361781a5a9c406">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_7f53a32f6690f30b96a1640af373f5b63f941387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/47c34993876458cb8630526a45f83bcd3f31fe9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_1993be3e54fb5dd6dcad45b4b5499377640ab4f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_9940c6a23e99c3498bbe6710bb22db606aad3b57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20be4fc45af5a418fbbfb8d1040020b64b187885">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_0a2e42afa1c2982dc1f023b07a5143866902e7b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/97ef12e2b4fbe9ba2433bc2b02012559d82cbbca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_279a7060110c5422fdb6988bbbe504ff589938e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/b96c20fdbcedb8061a0c3263eee9d00e9e40e736/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d1954a777a1b07dfd4002c29bcf53b07485590d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/Projects/coding/vibytest/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-3.6.0_b3bc898aa41477f5e4685d44083fad34fe822224/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/97ef12e2b4fbe9ba2433bc2b02012559d82cbbca/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_bbc0ea4d8366bcc66f704aa6decb352fc2cad04c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/3e8b8cd70b6172815f5f0a192e10469770f882f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a774607cf90ca991586347daa59ed0de0ad9cb49">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_f969b87084a5b7edd0b45cd44453e6f60f9203ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/1bb308b042cc05109992646bc1b2de3a4443cf58/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edaed5c051302ba960315d8e3161935f3df40f65">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_6b14882feb45f49f4aa9837e80bb91f7e2f61e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/266fd5342acb4c3d1663f0f3121bb723d70c13e4/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_b8ff20f8ada11acbb744c770769f8c55d8cac940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/3e8b8cd70b6172815f5f0a192e10469770f882f5/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a30a80d40b875fec941cafdceaf514b74ca6d76">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_570e0d0a75e77604bd1feef8d0e15a5195bf6fde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/b96c20fdbcedb8061a0c3263eee9d00e9e40e736/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_9bd7cfaa607de85b8d9427f52cdda29a47a97d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_8a642f816d9e37da3f58b4a682ee419cf685c943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/Projects/coding/vibytest/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okio-1.13.0_6fcc530ca3df99ce94e429f006663c5b9602ea31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/61b7c2d4ea5143121db4b1a450f120ba6843cec8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbd3e8e40ef62a454f4c3990aa70bbda3ffa596">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_604b30eada81d252ecc9484dc2f6dfa34150471b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/1bb308b042cc05109992646bc1b2de3a4443cf58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47803d3db7213b155bf0a1876ba920d29000abaa">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a78bf1d5fc3e8f3cc0fd63df8cfaa27fd03e06a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c521eedcb555acf438c9a35d3c1a3d9bf50f9c91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/47c34993876458cb8630526a45f83bcd3f31fe9d/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_ce8d09ed1d7d093900881d6be9687ac014cc6030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/.android/build-cache/83cbd656b207294fd219d1d0afc28c734246dbcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_77940a8a8b0c5698032d7768a247ac3b2bdd310b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/Projects/coding/vibytest/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-urlconnection-3.6.0_17ecab7dfb2cafa784c639986c9a23e08a3165b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/incremental-runtime-classes/dev19/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_b40d050cf7a53af6e753b85dda720bda72fae41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/incremental-classes/dev19/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="716eb72c3f598e0c63b3db67a6c50f92a45c0b81">
+        <dex dex="/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_c682c372e3ad344f8b8e13b9317107c83ec1a3b1/classes.dex" />
+    </item>
+
+</items>

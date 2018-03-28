@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.linked4.app.social",
+      "publishBundlePath": "ios/viby/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/viby/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.linked4.app.social"
+    },
+    "name": "Viby",
+    "slug": "viby",
+    "version": "0.1.0",
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp3c86f2eb15904f6eae8b68931b551142",
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.3.3-sdk25.0.0-e7a4361a-631d-4caf-9692-1880d71c394a.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.3.0-sdk25.0.0-0c32461b-a7c6-4ddc-b85b-32a80c4f18d9.tar.gz"
+    }
+  }
+}

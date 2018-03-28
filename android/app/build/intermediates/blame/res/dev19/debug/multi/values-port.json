@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/incremental/mergeDev19DebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

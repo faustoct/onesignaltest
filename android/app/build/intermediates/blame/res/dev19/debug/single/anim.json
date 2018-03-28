@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/cycle.xml",
+        "source": "/Users/fausto/.android/build-cache/520ead74672d4a35bbe917dd411d79887d571040/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/shake.xml",
+        "source": "/Users/fausto/.android/build-cache/520ead74672d4a35bbe917dd411d79887d571040/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_enter.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_out.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_up.xml",
+        "source": "/Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_down.xml",
+        "source": "/Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_exit.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_in.xml",
+        "source": "/Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_in.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/fausto/.android/build-cache/f527d56029670890b7e3d411a59e6e03c29977d6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_out.xml",
+        "source": "/Users/fausto/.android/build-cache/8b57d35cc8536afbfa8c812a0d94ce1c67ffcde7/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/fausto/Projects/coding/vibytest/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/fausto/.android/build-cache/06b44b3c966b659ce0c044749f353546635b210d/output/res/anim/catalyst_fade_in.xml"
+    }
+]
